@@ -1,0 +1,15 @@
+github：
+pull from remote repo:
+1. VisualStudioCode open folder "Electro-Rabbit"
+2. VSCode open terminal -> new terminal
+3. In terminal, cd into folder "Electro-Rabbit" 
+4. git pull
+5. Fix merge conflict (if there is)
+
+push to remote repo:
+1. terminal in folder "Elecgtro-Rabbit". Must be in Electro-Rabbit, Electro-Rabbit/src is not good
+2. "git add ." to add all modified files
+2. OR "git add file1 file2" to add only file1 and file2
+3. git commit -m "Add message about the modification (what you do)"
+4. git push
+
